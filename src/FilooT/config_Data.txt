@@ -1,0 +1,5 @@
+MULTIALIGNED: ../../Data/CurrentOutbreakSequences.txt
+ORIGINALSEQ: ../../Data/OriginalSeq.txt
+CHARACTERISTICS: ../../Data/disease_characteristics.csv
+PVALUE: ../../Data/Pvalue.csv
+EVOLUTION: ../../Data/EvolutionaryRelationships.txt
